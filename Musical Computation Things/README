@@ -1,0 +1,17 @@
+Controls:
+WASD for movement - 
+	w - forward
+	s - backward
+	a - strafe left
+	d - strafe right
+
+p - start strummer
+o - stop strummer
+i - change strum speed from 1-11 (counts up then resets), initialized at 3
+
+LMB - place selected sound
+RMB - destroy sound you are looking at
+
+1 - synth pad sound select
+2 - guitar sound select
+3 - crunchy sound select
